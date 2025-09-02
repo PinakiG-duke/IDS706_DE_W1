@@ -10,4 +10,3 @@ def test_say_hello():
 
 def test_add():
     assert add(3, 5) == 8
-    
