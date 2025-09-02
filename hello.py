@@ -12,4 +12,3 @@ if __name__ == "__main__":
     # Personalized main block for Week 1
     print(say_hello("Pinaki"))
     print("3 + 5 =", add(3, 5))
-
