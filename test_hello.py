@@ -1,3 +1,4 @@
+"""Unit tests for hello module."""
 from hello import say_hello, add
 
 
